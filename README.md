@@ -2,9 +2,6 @@
 
 Demo video: 
 
-## First Prototype
-<img src="assets/mvp1.gif">
-
 ## How to run?
 ```
 javac AlgorithmVisualizer.java
